@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luciano Mendes
 - 👀 I’m interested in um estagio para aprender e evoluir mais meus conhecimentos em javaScript
-- 🌱 I’m currently learning java no curso tec. analise e desenvolvimento de sistemas na faculdade UNIASSELVE
-- 💞 I’mlooking to qualquer colaborador
+- 🌱 I’m currently learning java no curso tec. analise e desenvolvimento de sistemas na faculdade UNIASSELVE e Curso de Desenvolvimento Full Stack aprte.
+- 💞 I’mlooking to qualquer colaborador.
 - 📫 How to reach me lucianomendes2019@hotmail.com
 
 <!---
